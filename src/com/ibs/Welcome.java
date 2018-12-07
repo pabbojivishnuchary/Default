@@ -12,7 +12,7 @@ public class Welcome implements I1,I2 {
 	
 		Welcome welcome = new Welcome();
 		welcome.display();
-		System.out.println("Hi");
+		System.out.println("Phani");
 	}
 
 }
